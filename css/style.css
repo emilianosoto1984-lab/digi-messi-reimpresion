@@ -1,0 +1,1012 @@
+.MESSI-landing-de.div {
+  position: relative;
+  width: 390px;
+  height: 2331px;
+  background-color: #ffffff;
+}
+
+.MESSI-landing-de .footer-completo {
+  position: absolute;
+  width: 390px;
+  height: 530px;
+  top: 1801px;
+  left: 0;
+}
+
+.MESSI-landing-de .links {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 52px;
+}
+
+.MESSI-landing-de .iconoshome {
+  position: relative;
+  width: 22px;
+  height: 36px;
+  aspect-ratio: 0.61;
+}
+
+.MESSI-landing-de .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #3f3f3f;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 19.8px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .centro-de-atenci-n {
+  position: absolute;
+  top: 165px;
+  left: 81px;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.MESSI-landing-de .span {
+  color: #155056;
+}
+
+.MESSI-landing-de .text-wrapper-2 {
+  color: #6a6a6a;
+  font-size: 32px;
+  line-height: 32px;
+}
+
+.MESSI-landing-de .links-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 48px;
+  left: 103px;
+}
+
+.MESSI-landing-de .iconos {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  position: absolute;
+  top: 96px;
+  left: 121px;
+}
+
+.MESSI-landing-de .img {
+  position: relative;
+  width: 28px;
+  height: 46px;
+  aspect-ratio: 0.61;
+}
+
+.MESSI-landing-de .links-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 191px;
+}
+
+.MESSI-landing-de .FOOTER {
+  position: absolute;
+  width: 392px;
+  height: 285px;
+  top: 245px;
+  left: 0;
+  background-color: transparent;
+}
+
+.MESSI-landing-de .overlap-group {
+  position: relative;
+  width: 390px;
+  height: 285px;
+  background-color: #e5e5e5;
+}
+
+.MESSI-landing-de .mapa-del-sitio {
+  position: absolute;
+  width: 358px;
+  top: 33px;
+  left: 16px;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #454545;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19.2px;
+}
+
+.MESSI-landing-de .lista-desplegables {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  align-items: flex-start;
+  gap: 14px;
+  position: absolute;
+  top: 1623px;
+  left: 16px;
+}
+
+.MESSI-landing-de .desplegable {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 14px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #00000033;
+}
+
+.MESSI-landing-de .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #057ea3;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 19.8px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .descuento {
+  display: inline-flex;
+  height: 26px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 14px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.MESSI-landing-de .vector {
+  position: relative;
+  width: 10.12px;
+  height: 17.41px;
+  margin-left: -0.71px;
+  margin-right: -1.41px;
+  aspect-ratio: 0.5;
+}
+
+.MESSI-landing-de .desplegable-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  align-items: flex-start;
+  gap: 14px;
+  position: absolute;
+  top: 1693px;
+  left: 16px;
+}
+
+.MESSI-landing-de .promos {
+  position: absolute;
+  width: 390px;
+  height: 410px;
+  top: 1153px;
+  left: 0;
+  background-color: #232323;
+}
+
+.MESSI-landing-de .con-tu-tarjeta-acced {
+  position: absolute;
+  width: 358px;
+  top: 39px;
+  left: 16px;
+  font-family: "KievitOT-Black", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30.8px;
+}
+
+.MESSI-landing-de .text-wrapper-4 {
+  font-family: "KievitOT-BlackItalic", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.MESSI-landing-de .text-wrapper-5 {
+  font-family: "KievitOT-ExtraBold", Helvetica;
+  font-weight: 800;
+}
+
+.MESSI-landing-de .text-wrapper-6 {
+  position: absolute;
+  width: 358px;
+  top: 306px;
+  left: 16px;
+  font-family: "KievitOT-BlackItalic", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24.2px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .p {
+  position: absolute;
+  width: 358px;
+  top: 335px;
+  left: 16px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24.2px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .carousel {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  position: absolute;
+  top: 129px;
+  left: 16px;
+}
+
+.MESSI-landing-de .carrusel-BASE {
+  position: relative;
+  width: 188px;
+  height: 156px;
+  margin-top: -8.00px;
+  margin-bottom: -8.00px;
+  margin-left: -8.00px;
+}
+
+.MESSI-landing-de .carrusel-BASE-2 {
+  position: relative;
+  width: 188px;
+  height: 156px;
+  margin-top: -8.00px;
+  margin-bottom: -8.00px;
+  margin-right: -8.00px;
+}
+
+.MESSI-landing-de .overlap {
+  position: absolute;
+  width: 390px;
+  height: 613px;
+  top: 540px;
+  left: 0;
+}
+
+.MESSI-landing-de .seccin-TYC {
+  height: 560px;
+  top: 53px;
+  background-color: #f5f5f5;
+  position: absolute;
+  width: 390px;
+  left: 0;
+}
+
+.MESSI-landing-de .text-wrapper-7 {
+  position: absolute;
+  width: 288px;
+  top: 118px;
+  left: 51px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24.2px;
+}
+
+.MESSI-landing-de .frame {
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 20px;
+  top: 296px;
+  background-color: var(--naranja-bna);
+  border-radius: 100px;
+  display: flex;
+  width: 358px;
+  align-items: center;
+  position: absolute;
+  left: 16px;
+}
+
+.MESSI-landing-de .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22.0px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .TC-MESSI {
+  position: absolute;
+  width: 358px;
+  height: 196px;
+  top: 352px;
+  left: 16px;
+  aspect-ratio: 1.83;
+  object-fit: cover;
+}
+
+.MESSI-landing-de .TYC {
+  display: flex;
+  width: 358px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 16px;
+  position: absolute;
+  top: 192px;
+  left: 16px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #00000026;
+}
+
+.MESSI-landing-de .TYC-check {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.MESSI-landing-de .CHECK {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-color: var(--naranja-bna);
+  border-radius: 12px;
+  aspect-ratio: 1;
+}
+
+.MESSI-landing-de .vector-2 {
+  position: absolute;
+  width: 12px;
+  height: 13px;
+  top: 6px;
+  left: 6px;
+}
+
+.MESSI-landing-de .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  font-family: "Expert Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #222222;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .div-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.MESSI-landing-de .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--naranja-bna);
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .seccin {
+  height: 145px;
+  top: 0;
+  background-color: #282828;
+  box-shadow: 0px 2px 8px #00000033;
+  position: absolute;
+  width: 390px;
+  left: 0;
+}
+
+.MESSI-landing-de .text-wrapper-11 {
+  position: absolute;
+  width: 358px;
+  top: 32px;
+  left: 16px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24.2px;
+}
+
+.MESSI-landing-de .text-wrapper-12 {
+  position: absolute;
+  width: 358px;
+  top: 91px;
+  left: 16px;
+  font-family: "KievitOT-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24.2px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .NAV-BAR-MOBILE {
+  display: flex;
+  width: 390px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #005f86;
+}
+
+.MESSI-landing-de .logo-bna {
+  position: relative;
+  width: 73px;
+  height: 26px;
+}
+
+.MESSI-landing-de .menu {
+  position: relative;
+  width: 1px;
+  height: 1px;
+}
+
+.MESSI-landing-de .header-mobile {
+  position: absolute;
+  width: 390px;
+  height: 474px;
+  top: 66px;
+  left: 0;
+  background-color: #f6f6f6;
+}
+
+.MESSI-landing-de .overlap-2 {
+  position: relative;
+  height: 474px;
+  background-image: url(./img/mc-bna-messi-landing-kv-1-header-mobile-v2-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.MESSI-landing-de .capa {
+  position: absolute;
+  width: 57px;
+  height: 35px;
+  top: 32px;
+  left: 166px;
+}
+
+.MESSI-landing-de .overlap-group-2 {
+  position: relative;
+  height: 35px;
+}
+
+.MESSI-landing-de .vector-3 {
+  position: absolute;
+  width: 15px;
+  height: 28px;
+  top: 4px;
+  left: 21px;
+}
+
+.MESSI-landing-de .vector-4 {
+  position: absolute;
+  width: 28px;
+  height: 35px;
+  top: 0;
+  left: 0;
+}
+
+.MESSI-landing-de .vector-5 {
+  position: absolute;
+  width: 28px;
+  height: 35px;
+  top: 0;
+  left: 29px;
+}
+
+.MESSI-landing-de .frame-2 {
+  flex-direction: column;
+  gap: 6px;
+  top: 92px;
+  display: flex;
+  width: 358px;
+  align-items: center;
+  position: absolute;
+  left: 16px;
+}
+
+.MESSI-landing-de .text-wrapper-13 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 35.2px;
+}
+
+.MESSI-landing-de.div-2 {
+  position: relative;
+  width: 995px;
+  height: 1872px;
+  background-color: #ffffff;
+}
+
+.MESSI-landing-de .overlap-3 {
+  position: absolute;
+  width: 995px;
+  height: 465px;
+  top: 424px;
+  left: 0;
+}
+
+.MESSI-landing-de .seccin-solicitud {
+  position: absolute;
+  width: 995px;
+  height: 370px;
+  top: 95px;
+  left: 0;
+  background-color: #f5f5f5;
+}
+
+.MESSI-landing-de .text-wrapper-14 {
+  position: absolute;
+  width: 405px;
+  top: 92px;
+  left: 75px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+}
+
+.MESSI-landing-de .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 25px;
+  position: absolute;
+  top: 262px;
+  left: 76px;
+  background-color: var(--naranja-bna);
+  border-radius: 100px;
+}
+
+.MESSI-landing-de .TC-MESSI-mockupx {
+  position: absolute;
+  width: 415px;
+  height: 260px;
+  top: 76px;
+  left: 505px;
+  aspect-ratio: 1.6;
+}
+
+.MESSI-landing-de .TYC-2 {
+  display: flex;
+  width: 415px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 16px;
+  position: absolute;
+  top: 169px;
+  left: 75px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #00000026;
+}
+
+.MESSI-landing-de .seccin-2 {
+  position: absolute;
+  width: 995px;
+  height: 145px;
+  top: 0;
+  left: 0;
+  background-color: #282828;
+  box-shadow: 0px 2px 8px #00000033;
+}
+
+.MESSI-landing-de .text-wrapper-15 {
+  position: absolute;
+  width: 846px;
+  top: 41px;
+  left: 75px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .text-wrapper-16 {
+  position: absolute;
+  width: 846px;
+  top: 79px;
+  left: 75px;
+  font-family: "KievitOT-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .header-desktop {
+  position: absolute;
+  width: 995px;
+  height: 360px;
+  top: 64px;
+  left: 0;
+  background-color: #f6f6f6;
+}
+
+.MESSI-landing-de .overlap-4 {
+  position: relative;
+  height: 360px;
+  background-image: url(./img/mc-bna-messi-landing-kv-1-header-desktop-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.MESSI-landing-de .frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 516px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 121px;
+  left: 75px;
+}
+
+.MESSI-landing-de .text-wrapper-17 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -2.55px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: 48.4px;
+}
+
+.MESSI-landing-de .overlap-group-wrapper {
+  position: absolute;
+  width: 64px;
+  height: 39px;
+  top: 51px;
+  left: 75px;
+  aspect-ratio: 1.63;
+}
+
+.MESSI-landing-de .overlap-group-3 {
+  position: relative;
+  height: 39px;
+}
+
+.MESSI-landing-de .vector-6 {
+  position: absolute;
+  width: 17px;
+  height: 31px;
+  top: 4px;
+  left: 23px;
+}
+
+.MESSI-landing-de .vector-7 {
+  position: absolute;
+  width: 32px;
+  height: 39px;
+  top: 0;
+  left: 0;
+}
+
+.MESSI-landing-de .vector-8 {
+  position: absolute;
+  width: 32px;
+  height: 39px;
+  top: 0;
+  left: 32px;
+}
+
+.MESSI-landing-de .NAV-BAR-DESKTOP {
+  position: absolute;
+  width: 995px;
+  height: 64px;
+  top: 0;
+  left: 0;
+}
+
+.MESSI-landing-de .seccin-3 {
+  position: absolute;
+  width: 995px;
+  height: 450px;
+  top: 889px;
+  left: 0;
+  background-color: #222222;
+}
+
+.MESSI-landing-de .con-tu-tarjeta-acced-2 {
+  position: absolute;
+  width: 804px;
+  top: 54px;
+  left: 96px;
+  font-family: "KievitOT-Black", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .carousel-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 113px;
+  left: 247px;
+}
+
+.MESSI-landing-de .carrusel-BASE-3 {
+  margin-left: -8.00px;
+  position: relative;
+  width: 259px;
+  height: 186px;
+  margin-top: -8.00px;
+  margin-bottom: -8.00px;
+}
+
+.MESSI-landing-de .carrusel-BASE-4 {
+  margin-right: -8.00px;
+  position: relative;
+  width: 259px;
+  height: 186px;
+  margin-top: -8.00px;
+  margin-bottom: -8.00px;
+}
+
+.MESSI-landing-de .text-wrapper-18 {
+  position: absolute;
+  width: 358px;
+  top: 324px;
+  left: 319px;
+  font-family: "KievitOT-BlackItalic", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30.8px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .text-wrapper-19 {
+  position: absolute;
+  width: 358px;
+  top: 366px;
+  left: 319px;
+  font-family: "KievitOT-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24.2px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .lista-desplegables-2 {
+  top: 1413px;
+  display: flex;
+  flex-direction: column;
+  width: 845px;
+  align-items: flex-start;
+  gap: 14px;
+  position: absolute;
+  left: 75px;
+}
+
+.MESSI-landing-de .desplegable-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #00000033;
+}
+
+.MESSI-landing-de .lista-desplegables-3 {
+  top: 1484px;
+  display: flex;
+  flex-direction: column;
+  width: 845px;
+  align-items: flex-start;
+  gap: 14px;
+  position: absolute;
+  left: 75px;
+}
+
+.MESSI-landing-de .footer-completo-2 {
+  position: absolute;
+  width: 995px;
+  height: 272px;
+  top: 1600px;
+  left: 0;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #505050;
+}
+
+.MESSI-landing-de .links-4 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 35px;
+  left: 75px;
+}
+
+.MESSI-landing-de .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #3f3f3f;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.MESSI-landing-de .centro-de-atenci-n-2 {
+  position: absolute;
+  width: 202px;
+  top: 31px;
+  left: 718px;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.MESSI-landing-de .text-wrapper-21 {
+  color: #6a6a6a;
+  font-size: 28px;
+  line-height: 28px;
+}
+
+.MESSI-landing-de .links-5 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 35px;
+  left: 349px;
+}
+
+.MESSI-landing-de .iconos-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  position: absolute;
+  top: 30px;
+  left: 543px;
+}
+
+.MESSI-landing-de .links-6 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 35px;
+  left: 202px;
+}
+
+.MESSI-landing-de .footer {
+  position: absolute;
+  width: 997px;
+  height: 150px;
+  top: 122px;
+  left: 0;
+  background-color: transparent;
+}
+
+.MESSI-landing-de .overlap-group-4 {
+  position: relative;
+  width: 995px;
+  height: 150px;
+  background-color: #e5e5e5;
+}
+
+.MESSI-landing-de .text-wrapper-22 {
+  position: absolute;
+  width: 845px;
+  top: 33px;
+  left: 75px;
+  font-family: "Expert Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #454545;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19.8px;
+}
+
+@media (max-width: 994px) {
+  .MESSI-landing-de.div-2 {
+    display: none !important;
+  }
+}
+
+@media (min-width: 995px) {
+  .MESSI-landing-de.div {
+    display: none !important;
+  }
+}
